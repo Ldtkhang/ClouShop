@@ -13,10 +13,10 @@
 
 <?php
 ///////////////////////////// SEARCH ////////////////////////////////////////////
-$host = "z5zm8hebixwywy9d.cbetxkdyhwsb.us-east-1.rds.amazonaws.com";
-$username="tvdg82gjvsolpgib";
-$password="r2bxbt5hwwfdv3gw";
-$db= "eqy8f5w4zth4rwz9";
+$host = "s29oj5odr85rij2o.cbetxkdyhwsb.us-east-1.rds.amazonaws.com";
+$username="hx83ekgo3naqui9t";
+$password="n2ln5qii0d8e3aiu";
+$db= "bmgzz1ld9blyyrcf";
 $conn = mysqli_connect($host,$username,$password,$db) or die("Can not connect database".mysqli_connect_error());
 
 // Hàm tìm kiếm sản phẩm
